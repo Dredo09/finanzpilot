@@ -1,0 +1,2 @@
+FinanzPilot – neutrale Version
+Alle Startwerte sind null. Unter Daten eigene Werte speichern, unter Plan Fixkosten und Budgets eintragen, unter Ziele Sparziele anlegen. Alle Dateien in ein GitHub-Repository hochladen und Pages aktivieren. Daten bleiben im jeweiligen Browser. JSON-Backups privat aufbewahren, niemals ins Repository hochladen. Prognose ist ein separates Szenario; einmalige Ausgaben und Sparziele sind nicht automatisch enthalten. Keine automatische Synchronisierung.
